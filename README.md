@@ -18,7 +18,9 @@ Alle drei auf meiner [Entwicklerseite im App Store](https://apps.apple.com/at/de
 
 ## Automationen
 
-- **Untertitel-Pipeline:** komprimiert Hochformat-Videos, transkribiert lokal mit Whisper (mlx-whisper) und brennt die Untertitel ein. Im Einsatz für Kunden-Reels.
+Ohne Code beschrieben, bis auf die Untertitel-Pipeline, die gibt es als bereinigtes Code-Beispiel.
+
+- **Untertitel-Pipeline:** komprimiert Hochformat-Videos, transkribiert lokal mit Whisper (mlx-whisper) und brennt die Untertitel ein. Im Einsatz für Kunden-Reels. Code: [videowien/reel-subtitles](https://github.com/videowien/reel-subtitles)
 - **Social-Planung:** ganze Reel-Serien für Kunden über die Buffer-API auf mehrere Kanäle eingeplant, Medien über Cloudinary.
 - **Blog-Pipeline:** [contentwerk.at](https://contentwerk.at) läuft auf selbst gehostetem Ghost, die Artikel entstehen in einer KI-Pipeline.
 - **Motion Graphics aus Code:** HTML/CSS-Animationen, Bild für Bild gerendert (Playwright, ffmpeg) und auf die Wortzeiten der Tonspur getimt.
