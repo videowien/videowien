@@ -7,8 +7,9 @@ Videograf in Wien. Ich baue Apps, Web-Tools und Automationen mit Claude Code, f�
 - **[cutsmart: KI für Final Cut Pro](https://apps.apple.com/app/id6781100021)** (Mac): KI-Schnitt für Final Cut Pro. Ich setze es für eigene Videos und Kundenkurse ein.
 - **[OneClickCamera](https://oneclicklut.com/oneclickcamera/)** (iPhone, iPad): filmt in Apple Log, gradet mit einem Tipp und exportiert das fertige Video.
 - **[Teleprompter with Auto Scroll](https://bestfreeteleprompter.com)** (iPhone und Web): ein Teleprompter, der beim Sprechen mitscrollt.
+- **[WB Meter: Kelvin & Tint](https://oneclicklut.com/white-balance-meter/)** (iPhone): misst am Set den Weißabgleich in Kelvin und Tint, als Wert für die Einstellung der Kamera.
 
-Alle drei auf meiner [Entwicklerseite im App Store](https://apps.apple.com/at/developer/gillian-scharf/id6781100023).
+Alle auf meiner [Entwicklerseite im App Store](https://apps.apple.com/at/developer/gillian-scharf/id6781100023).
 
 ## Web
 
