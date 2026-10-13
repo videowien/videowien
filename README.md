@@ -16,7 +16,7 @@ Alle auf meiner [Entwicklerseite im App Store](https://apps.apple.com/at/develop
 
 - **[SharpDev.tools](https://sharpdev.tools)**: 780+ Browser-Tools in 24 Kategorien, ohne Werbung, Cookies und Tracking. Quellcode: [videowien/sharpdev-tools](https://github.com/videowien/sharpdev-tools)
 - **[OneClickLUT](https://oneclicklut.com)**: Apple-Log-LUT und Ein-Klick-Plugin für Final Cut Pro.
-- Websites auf meinem eigenen Server (Hetzner, nginx): [videowien.at](https://videowien.at), [fixseite.at](https://fixseite.at), [scharf.mov](https://scharf.mov)
+- Websites auf meinem eigenen Server (Hetzner, nginx): [videowien.at](https://videowien.at), [fixseite.at](https://fixseite.at), [bestfreeteleprompter.com](https://bestfreeteleprompter.com)
 
 ## Automationen
 
@@ -30,4 +30,4 @@ Die meisten laufen nur intern, deshalb hier ohne Code. Die Untertitel-Pipeline g
 
 ## Kontakt
 
-[scharf.mov](https://scharf.mov) · [videowien.at](https://videowien.at) · [YouTube](https://www.youtube.com/@videowien) · [Instagram](https://www.instagram.com/videowien)
+[Über mich](https://videowien.at/gillian-scharf/) · [videowien.at](https://videowien.at) · [YouTube](https://www.youtube.com/@videowien) · [Instagram](https://www.instagram.com/videowien)
